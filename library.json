@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-ttp229",
+  "title": "ttp229",
+  "keywords": "ttp229, esp32, esp8266, arduino",
+  "description": "Plugin ttp229 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-ttp229/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-ttp229/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
